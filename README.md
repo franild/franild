@@ -1,6 +1,6 @@
 ## Olá👋, Eu sou Franildo Silva
 
-<div align="center">
+<div style="display: inline_block;" align="center" >
   <a href="https://github.com/franild">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franild&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franild&layout=compact&langs_count=7&theme=midnight-purple"/>
