@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franild&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franild&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block;"><br>
+<div  align="center"><br>
 <img src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor">
 <img src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor">
 <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor">
@@ -13,7 +13,7 @@
   
   ##
   
-<div>
+<div  align="center" >
 <a href="mailto:franyldo.silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href=" [ ](https://contate.me/Franildo.silva) "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/franildo-silva-a79733222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
