@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Franildo Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=header&text=Franildo Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 ## <h1 align="center">Olá👋, Eu sou Franildo</h1>
@@ -32,4 +32,4 @@
 ![Snake animation](https://github.com/franild/franild/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>****
