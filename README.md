@@ -1,4 +1,7 @@
-## <h1 align="center">Olá👋, Eu sou Franildo Silva</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Franildo Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
+## <h1 align="center">Olá👋, Eu sou Franildo</h1>
 
 <div style="display: inline_block;" align="center" >
   <a href="https://github.com/franild">
