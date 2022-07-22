@@ -13,9 +13,7 @@
 </div>
 <div align="center"><br>
 <h2>Em Breve</h2>
-<img src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor">
-<img src="https://icongr.am/devicon/css3-original.svg?size=78&color=currentColor">
-<img src="https://icongr.am/devicon/javascript-original.svg?size=65&color=currentColor">
+<img src="https://icongr.am/devicon/csharp-original.svg?size=82&color=currentColor ">
 
 </div>
   
