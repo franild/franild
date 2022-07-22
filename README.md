@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=header&text=Franildo Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=header&text=FRANILDO SILVA&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=39&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+FRANILDO+SILVA;TENHO+25+ANOS;SOU+DO+BRASIL,+PA;ESTUDO+ADS+NA+FACULDADE+UNOPAR;BEM+VINDO!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=42&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+FRANILDO+SILVA;TENHO+25+ANOS;ESTUDO+ADS+NA+FACULDADE+UNOPAR;BEM+VINDO!+)](https://git.io/typing-svg)
 
 
 
 <div style="display: inline_block;" align="center" >
   <a href="https://github.com/franild">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franild&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franild&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="46%" height="195px"src="https://github-readme-stats.vercel.app/api?username=franild&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franild&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div align="center"><br>
 <h2>Linguagens Que Estudo Atualmente</h2>
