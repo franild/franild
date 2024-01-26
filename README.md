@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3&height=180&section=header&text=FRANILDO SILVA&fontSize=30&fontColor=#fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=42&center=true&vCenter=true&width=1000&lines=OLÁ👋🏻,+SOU+FRANILDO+SILVA;TENHO+26+ANOS;ESTUDO+ADS+NA+FACULDADE+UNOPAR;BEM+VINDO(A)!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=42&center=true&vCenter=true&width=1000&lines=OLÁ👋🏻,+SOU+FRANILDO+SILVA;TENHO+27+ANOS;FORMADO+EM+ADS+NA+FACULDADE+UNOPAR;BEM+VINDO(A)!+)](https://git.io/typing-svg)
 
 
 
